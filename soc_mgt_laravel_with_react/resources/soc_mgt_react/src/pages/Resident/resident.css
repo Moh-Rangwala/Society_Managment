@@ -1,0 +1,19 @@
+.resident-page-main-container h2 {
+    margin: 15px 0;
+}
+
+.services-tables-container {
+    display: flex;
+    width: '100%';
+    justify-content: space-around;
+}
+
+.resident-photo-form {
+    margin: 10px !important ;
+    width: 85% !important;
+}
+
+.resident-upload-image {
+    width: 80%;
+    height: 80%;
+}
