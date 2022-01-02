@@ -34,4 +34,4 @@ This is the implementation of a Housing Society Management. It uses Laravel as a
 
 - Home Page
 
-<img width="900" height="300" src="screens/homepage" alt="hr">
+<img width="900" height="300" src="screens/homepage.png" alt="hr">
